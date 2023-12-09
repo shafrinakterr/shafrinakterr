@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shafrin akter
 
-![picture alt](./images/408404225_321239810709106_6606971882305541313_n.gif)
+![picture alt](./images/shafrin.gif)
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=transparent)](https://git.io/streak-stats)
 

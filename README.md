@@ -14,7 +14,6 @@
 ##
 ## 😊 About me
  👋 I'm Shafrin, a passionate frontend developer on a mission to build immersive and user-friendly digital experiences .👨‍💻
-
 <br> 🚀 With a deep love for web technologies, I specialize in crafting intuitive and responsive user interfaces that leave a lasting impression. I thrive on turning ideas into reality through the art of code.
 
 ### 💼 What I Do
@@ -29,10 +28,11 @@
 - **Tools:** GitHub, VScode, Vercel, Netlify, Figma.
 
 ### 🌐 Check Out My Work
-* https://electronics-brands.web.app/
+* https://electronics-brands.web.app
+* https://educational-training-eve-8647a.web.app
 * https://online-marketplace.surge.sh
 
-## My skills 
+## 💻 Technology that i learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)
 ### 🌱 Currently Learning
 

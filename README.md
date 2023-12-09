@@ -2,7 +2,13 @@
 
 ![picture alt](./images/shafrin.gif)
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=blux)](https://git.io/streak-stats)
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=transparent&hide_border=true)](https://git.io/streak-stats" />
+</p>
+
+##
 
 I'm Shafrin, a passionate frontend developer with a love for developing seamless and common digital experiences.
 
@@ -18,8 +24,8 @@ I'm Shafrin, a passionate frontend developer with a love for developing seamless
 - **Tools:** GitHub, VScode, Vercel, Netlify, Figma.
 
 ### 🌐 Check Out My Work
-
-[Portfolio](https://next-add.com) | [LinkedIn](next-addd)
+* https://electronics-brands.web.app/
+* https://online-marketplace.surge.sh
 
 ## My skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)

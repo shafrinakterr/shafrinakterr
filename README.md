@@ -2,7 +2,7 @@
 
 ![picture alt](./images/408404225_321239810709106_6606971882305541313_n.gif)
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=blux)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=transparent)](https://git.io/streak-stats)
 
 I'm Shafrin, a passionate frontend developer with a love for developing seamless and common digital experiences.
 
@@ -22,7 +22,7 @@ I'm Shafrin, a passionate frontend developer with a love for developing seamless
 [Portfolio](https://next-add.com) | [LinkedIn](next-addd)
 
 ## My skills 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,mongodb,express,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)
 ### 🌱 Currently Learning
 
 I'm always on the lookout for new technologies and best practices. Currently diving deeper into [Technology/Framework/Concept].

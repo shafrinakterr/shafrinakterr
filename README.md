@@ -4,7 +4,7 @@
 
 
 
-## 📈 Current Stats
+## 📈 Current Status
 
 <br />
 <p align="center">
@@ -12,8 +12,10 @@
 </p>
 
 ##
+## 😊 About me
+ 👋 I'm Shafrin, a passionate frontend developer on a mission to build immersive and user-friendly digital experiences .👨‍💻
 
- 👋 I'm Shafrin, a passionate frontend developer on a mission to build immersive and user-friendly digital experiences 👨‍💻.With a deep love for web technologies, I specialize in crafting intuitive and responsive user interfaces that leave a lasting impression. I thrive on turning ideas into reality through the art of code.
+<br> 🚀 With a deep love for web technologies, I specialize in crafting intuitive and responsive user interfaces that leave a lasting impression. I thrive on turning ideas into reality through the art of code.
 
 ### 💼 What I Do
 

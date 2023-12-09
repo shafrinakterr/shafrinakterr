@@ -2,7 +2,7 @@
 
 ![picture alt](./images/shafrin.gif)
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafrinakterr&theme=blux)](https://git.io/streak-stats)
 
 I'm Shafrin, a passionate frontend developer with a love for developing seamless and common digital experiences.
 

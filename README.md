@@ -32,11 +32,12 @@
 * https://educational-training-eve-8647a.web.app
 * https://online-marketplace.surge.sh
 
-## 💻 Technology that i learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma)](https://skillicons.dev)
+## 💻 Technology that i know
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind,figma,mongodb,express,nodejs)](https://skillicons.dev)
+#
 ### 🌱 Currently Learning
 
-I'm always on the lookout for new technologies and best practices. Currently diving deeper into [Technology/Framework/Concept].
+I'm always on the lookout for new technologies and best practices. Currently learningmongoDB, Express,Node js.<br> [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs)](https://skillicons.dev)
 
 ### 📫 Let's Connect
 
